@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #444444;
+  max-width: 720px;
+  padding: 54px;
+  margin: 0 auto;
+  border-left: 6px solid #e2231a;
+  font-weight: 100;
+}
+
+/* Styles other page elements below */
+
+header{
+  
+}
+
+h1 {
+  line-height: 1.5;
+  margin: 0.67em 0;
+  font-family: Lato;
+  color: red;
+  font-weight: 100;
+  margin-bottom: 0%;
+}
+
+h4{
+  font-family: lato;
+  font-weight: 100;
+  padding-bottom: 0px;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.links{
+  color: #dddddd;
+  font-weight: 100;
+  padding-inline-end: 10px;
+  margin-top: 0%;
+}
+
+.dates{
+  color: #cccccc;
+  font-weight: 100;
+  padding-top: 54px;
+  margin-bottom: 0;
+}
+
+img{
+  width: 720;
+  height: 216;
+}
+
+.font{
+  font-family: lato;
+  font-weight: 100;
+  margin-top: 0;
+}
+
+
+section{
+  border-bottom: solid 1.5px #dddddd ;
+}
+
+.bottomLinks{
+  padding-right: 5px;
+  margin-right: 5px;
+  color: red;
+  text-decoration: none;  
+}
+
+.bottom-link-right-border {
+  border-right: solid 1.5px #dddddd;
+}
+
+.continue{
+  color: red;
+  text-align: right
+}
+
+#bottom{
+  border-spacing: solid 1.5px #dddddd;
+  padding-top: 54px;
+}
